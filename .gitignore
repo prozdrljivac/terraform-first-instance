@@ -1,0 +1,6 @@
+# Terraform
+terraform.tfvars
+terraform.tfstate*
+# Commit .terraform.lock.hcl when working in teams.
+.terraform.lock.hcl
+.terraform
